@@ -1,0 +1,2 @@
+# Exlucde .env file
+*.env
